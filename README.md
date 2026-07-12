@@ -1,173 +1,116 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:1A1A2E&height=200&section=header&text=Utsav&fontSize=80&fontColor=fff&animation=fadeIn" width="100%"/>
-</div>
 
-<p align="center">
-  <samp>
-    <b>full-stack developer · AI enthusiast · builder</b><br>
-    <sub>BTech CSE · 3rd Year · Bhubaneswar</sub>
-  </samp>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-dark.svg" width="100%" alt="Utsav — i build things that should exist">
+</picture>
 
-<p align="center">
-  <a href="https://linkedin.com/in/justutsav"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/justutsav"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@Blaze_Age"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:justutsav.05@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://play.google.com/store/apps/details?id=com.justmanager.app"><img src="https://img.shields.io/badge/-Play_Store-414141?style=flat-square&logo=google-play&logoColor=white"/></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2600&pause=900&color=FF5A24&center=true&vCenter=true&width=640&height=40&lines=I+ship+real+products.;23+Play+Store+releases%2C+shipped+solo.;Rs+75L%2B+managed+by+my+software.;3+businesses+run+on+my+builds.;currently+stuck+in+a+TLE.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2600&pause=900&color=CF3E12&center=true&vCenter=true&width=640&height=40&lines=I+ship+real+products.;23+Play+Store+releases%2C+shipped+solo.;Rs+75L%2B+managed+by+my+software.;3+businesses+run+on+my+builds.;currently+stuck+in+a+TLE.">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2600&pause=900&color=FF5A24&center=true&vCenter=true&width=640&height=40&lines=I+ship+real+products.;23+Play+Store+releases%2C+shipped+solo.;Rs+75L%2B+managed+by+my+software.;3+businesses+run+on+my+builds.;currently+stuck+in+a+TLE." alt="rotating taglines">
+</picture>
 
----
+<br>
 
-## 👨‍💻 About Me
+<a href="https://linkedin.com/in/justutsav"><img src="https://img.shields.io/badge/LINKEDIN-191713?style=flat-square&logo=linkedin&logoColor=f2ede2"></a>
+<a href="https://youtube.com/@Blaze_Age"><img src="https://img.shields.io/badge/YOUTUBE-191713?style=flat-square&logo=youtube&logoColor=f2ede2"></a>
+<a href="mailto:justutsav.05@gmail.com"><img src="https://img.shields.io/badge/EMAIL-191713?style=flat-square&logo=gmail&logoColor=f2ede2"></a>
+<a href="https://play.google.com/store/apps/details?id=com.justmanager.app"><img src="https://img.shields.io/badge/PLAY_STORE-ff5a24?style=flat-square&logo=google-play&logoColor=0e0d0b"></a>
 
-I'm a developer who ships real products — apps on the Play Store, dashboards that manage crores of rupees, and tools people use every day. I build at the intersection of **finance tech**, **AI integrations**, and **mobile app development**.
-
-- 🎯 **Building:** Full-stack applications with real users — from expense trackers to investment portals
-- 💼 **Freelancing:** Taking client projects from concept to Play Store launch
-- 📚 **Learning:** System design, advanced DSA, and production-ready architectures (Harkirat Singh's 0-100)
-- 🧠 **I thrive on:** Turning complex problems into clean, functional products
-- ⚡ **Fun fact:** My full name is just **Utsav** — no surname needed ✌️
-
----
-
-## 🚀 Featured Projects
+<br><br>
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h3>📊 Investor Nexus</h3>
-      <p><sub><i>Investment portfolio management platform</i></sub></p>
-      <p>A full-featured investment tracking portal managing substantial AUM. Built with TypeScript + Supabase, handling real-time portfolio data, automated PDF report generation, and investor communication workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <a href="https://github.com/justutsav/investor-nexus-finance">🔗 Repo</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🔄 JustTrade</h3>
-      <p><sub><i>Multi-account trading dashboard</i></sub></p>
-      <p>A unified trading analytics dashboard that aggregates data across multiple demat accounts. Provides a single-pane view of positions, P&L, and strategy-specific metrics for active traders.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      </p>
-      <a href="https://github.com/justutsav/justtrade">🔗 Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🧮 SplitFree</h3>
-      <p><sub><i>Group expense tracking · Play Store</i></sub></p>
-      <p>Built in rebellion against Splitwise's restrictions. Now actively used by my flatmates and friends to track shared expenses. Supports split bills, group settlements, and real-time balance tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-      </p>
-      <a href="https://github.com/justutsav/splitfreeapp">🔗 Repo</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>✅ Grit</h3>
-      <p><sub><i>Productivity app · Play Store</i></sub></p>
-      <p>A full-stack productivity application published on the Play Store (com.justmanager.app). Features push notifications via OneSignal, subscription management via RevenueCat, and a Capacitor-wrapped web app architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-RevenueCat-FD5E5E?style=flat-square&logo=&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-OneSignal-0F9D58?style=flat-square&logo=&logoColor=white"/>
-      </p>
-      <a href="https://play.google.com/store/apps/details?id=com.justmanager.app">📲 Play Store</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>⚡ Engine-Benchmarking</h3>
-      <p><sub><i>Distributed benchmarking platform</i></sub></p>
-      <p>A multi-language distributed benchmarking system for trading infrastructure. Combines Go, C++, Python, and Docker to stress-test and profile trading engine performance under various market conditions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-      <a href="https://github.com/justutsav/Engine-Benchmarking">🔗 Repo</a>
-    </td>
-    <td width="50%" align="center">
-      <h3>⌨️ WPM Overlay</h3>
-      <p><sub><i>Real-time typing speed tracker</i></sub></p>
-      <p>A Python (Tkinter + pynput) desktop overlay that tracks your words-per-minute in real-time with a live graph and color-coded speed indicator. Perfect for typing practice sessions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <a href="https://github.com/justutsav/wpm-overlay">🔗 Repo</a>
-    </td>
+    <td align="center" width="25%"><b>Rs 75L+</b><br><sub><samp>MANAGED BY MY SOFTWARE</samp></sub></td>
+    <td align="center" width="25%"><b>50+</b><br><sub><samp>CLIENTS USING IT DAILY</samp></sub></td>
+    <td align="center" width="25%"><b>23</b><br><sub><samp>PLAY STORE RELEASES</samp></sub></td>
+    <td align="center" width="25%"><b>3</b><br><sub><samp>BUSINESSES ON MY BUILDS</samp></sub></td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/justutsav?tab=repositories"><sub><i>… and more on GitHub →</i></sub></a>
-</p>
+</div>
 
----
+<br>
 
-## 🛠️ Tech Stack
+### <samp>01 · selected work</samp>
 
-<p align="center">
+> **The code is private. The results aren't.** Most of my repos run live businesses with real money in them — they can't be public. So the proof is the kind that matters: numbers, live products, and people who use the software every day.
 
-**Frontend**<br>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+| | project | what it does | proof |
+|---|---|---|---|
+| `01` | **INVESTOR NEXUS** | Investor portal — clients log in and watch their capital and returns live. Managed capital grew from ₹20L to ₹75L+ on top of it. PDF statements, automated comms. | [atulfinance.com ↗](https://www.atulfinance.com) · <sub><samp>CODE PRIVATE</samp></sub> |
+| `02` | **JUSTTRADE** | One dashboard over multiple demat accounts — positions, P&L, and strategy-level metrics in a single pane for an active trading desk. | <sub><samp>CODE PRIVATE — REAL MONEY INSIDE</samp></sub> |
+| `03` | **ASTRO WALA** | AI astrology app for a client — kundli generation and astrologer chat, LLMs routed through OpenRouter with pgvector recall. | <sub><samp>CLIENT WORK</samp></sub> |
+| `04` | **GRIT** | Productivity app, 23 versioned releases shipped solo. Push via OneSignal, subscriptions via RevenueCat, Capacitor-wrapped. | [Play Store ↗](https://play.google.com/store/apps/details?id=com.justmanager.app) |
+| `05` | **SPLITFREE** | Group expense splitting, built in rebellion against Splitwise's free-tier caps. My flat of five settles rent on it. | <sub><samp>ON THE PLAY STORE · USED DAILY</samp></sub> |
 
-**Backend & Database**<br>
-<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<br>
 
-**Mobile & Tools**<br>
-<img src="https://img.shields.io/badge/-Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+### <samp>02 · code you can actually read</samp>
 
-**AI & Data**<br>
-<img src="https://img.shields.io/badge/-OpenRouter-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+| | |
+|---|---|
+| [**claude-route**](https://github.com/justutsav/claude-route) <br><sub>Zero-token model router for Claude Code — a deterministic classifier picks the cheapest capable model per task. Skill + hook + statusline telemetry.</sub><br><sub><samp>PYTHON</samp></sub> | [**nodepad**](https://github.com/justutsav/nodepad) <br><sub>A spatial research tool exploring AI that augments thinking instead of replacing it.</sub><br><sub><samp>TYPESCRIPT</samp></sub> |
+| [**wpm-overlay**](https://github.com/justutsav/wpm-overlay) <br><sub>Real-time words-per-minute overlay with a live graph and color-coded speed indicator. For the Monkeytype habit.</sub><br><sub><samp>PYTHON · TKINTER</samp></sub> | [**justWhisper**](https://github.com/justutsav/justWhisper) <br><sub>Local speech-to-text tooling built on Whisper — transcription without sending audio anywhere.</sub><br><sub><samp>PYTHON</samp></sub> |
+| [**Zentry-clone-Website**](https://github.com/justutsav/Zentry-clone-Website) <br><sub>Award-site rebuild studying scroll choreography and kinetic type. [Live demo ↗](https://zentry-clone-website-mu.vercel.app/)</sub><br><sub><samp>JAVASCRIPT · GSAP</samp></sub> | [**brain-tumor-highlight**](https://github.com/justutsav/brain-tumor-highlight) <br><sub>MRI scan analysis experiments — block-based thresholding and visualization with OpenCV.</sub><br><sub><samp>TYPESCRIPT · CV</samp></sub> |
+| [**Rubix-Cube-Project**](https://github.com/justutsav/Rubix-Cube-Project) <br><sub>Interactive cube — state, rotation math, and rendering from scratch.</sub><br><sub><samp>TYPESCRIPT</samp></sub> | [**GDrive-Folder-Size-Calculator**](https://github.com/justutsav/GDrive-Folder-Size-Calculator) <br><sub>The tool Google forgot to build — recursive Drive folder sizes.</sub><br><sub><samp>PYTHON</samp></sub> |
 
-</p>
+<br>
 
----
+### <samp>03 · live from the workshop</samp>
 
-## 📈 GitHub Activity
+<!--LIVE:START-->
+**⚡ recently pushed**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justutsav&theme=dark&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&bg_color=00000000" width="49%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=justutsav&theme=dark&hide_border=true&bg_color=00000000" width="49%"/>
-</p>
+- [**claude-route**](https://github.com/justutsav/claude-route) — Zero-token model router for Claude Code: deterministic classifier picks the cheapest ca… · `today`
+- [**justWhisper**](https://github.com/justutsav/justWhisper) — no description yet · `9d ago`
+- [**getting-started-with-ubuntu**](https://github.com/justutsav/getting-started-with-ubuntu) — no description yet · `1mo ago`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justutsav&theme=dark&hide_border=true&layout=compact&bg_color=00000000" width="40%"/>
-</p>
+**📼 latest on [@Blaze_Age](https://youtube.com/@Blaze_Age)**
 
----
+- [Did Housing route in a Stables cause I am dumb XD](https://www.youtube.com/watch?v=YFCkKWRqB4Q) · `Jun 2026`
+- [Ghost of Tsushima-Part 1 || Blaze Age](https://www.youtube.com/watch?v=ROatxfHLVAs) · `Jan 2025`
+
+<sub>refreshed 12 Jul 2026, 17:49 IST · by a GitHub Actions cron, no hands involved</sub>
+<!--LIVE:END-->
+
+<br>
+
+### <samp>04 · the dashboard</samp>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:00C9A7&height=120&section=footer"/>
-  <br>
-  <sub><i>"building things that matter, one commit at a time"</i></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=justutsav&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&bg_color=00000000&title_color=ff5a24&text_color=a49a88&icon_color=5b8cff&ring_color=ff5a24">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=justutsav&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&bg_color=00000000&title_color=cf3e12&text_color=5d5647&icon_color=2f56c4&ring_color=cf3e12">
+  <img src="https://github-readme-stats.vercel.app/api?username=justutsav&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&bg_color=00000000&title_color=ff5a24&text_color=a49a88&icon_color=5b8cff&ring_color=ff5a24" width="49%" alt="stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=justutsav&hide_border=true&background=00000000&ring=ff5a24&fire=ff5a24&currStreakNum=f2ede2&sideNums=f2ede2&currStreakLabel=ff5a24&sideLabels=a49a88&dates=5d5647">
+  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=justutsav&hide_border=true&background=00000000&ring=cf3e12&fire=cf3e12&currStreakNum=14120f&sideNums=14120f&currStreakLabel=cf3e12&sideLabels=5d5647&dates=5d5647">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=justutsav&hide_border=true&background=00000000&ring=ff5a24&fire=ff5a24&currStreakNum=f2ede2&sideNums=f2ede2&currStreakLabel=ff5a24&sideLabels=a49a88&dates=5d5647" width="49%" alt="streak">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contribution skyline">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justutsav&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ff5a24&text_color=a49a88">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justutsav&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=cf3e12&text_color=5d5647">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justutsav&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ff5a24&text_color=a49a88" width="42%" alt="languages">
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+  <samp><sub>TS · React · Supabase · Capacitor · Python · pgvector · OpenRouter · RevenueCat · OneSignal</sub></samp>
+  <br><br>
+  <samp><sub>building things that should exist — since the gaming-video days.</sub></samp>
 </div>
