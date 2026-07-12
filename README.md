@@ -29,9 +29,9 @@
 
 | | project | what it does | proof |
 |---|---|---|---|
-| `01` | **INVESTOR NEXUS** | Investor portal — clients log in and watch their capital and returns live. Managed capital grew from ₹20L to ₹75L+ on top of it. PDF statements, automated comms. | [atulfinance.com ↗](https://www.atulfinance.com) · <sub><samp>CODE PRIVATE</samp></sub> |
+| `01` | **Atul Finance** | Investor portal — clients log in and watch their capital and returns live. Managed capital grew from ₹20L to ₹75L+ on top of it. PDF statements, automated comms. | [atulfinance.com ↗](https://www.atulfinance.com) · <sub><samp>CODE PRIVATE</samp></sub> |
 | `02` | **JUSTTRADE** | One dashboard over multiple demat accounts — positions, P&L, and strategy-level metrics in a single pane for an active trading desk. | <sub><samp>CODE PRIVATE — REAL MONEY INSIDE</samp></sub> |
-| `03` | **ASTRO WALA** | AI astrology app for a client — kundli generation and astrologer chat, LLMs routed through OpenRouter with pgvector recall. | <sub><samp>CLIENT WORK</samp></sub> |
+| `03` | **ASTRO WALA** | Astrology app for a client — kundli generation and astrologer chat. | <sub><samp>CLIENT WORK</samp></sub> |
 | `04` | **GRIT** | Productivity app, 23 versioned releases shipped solo. Push via OneSignal, subscriptions via RevenueCat, Capacitor-wrapped. | [Play Store ↗](https://play.google.com/store/apps/details?id=com.justmanager.app) |
 | `05` | **SPLITFREE** | Group expense splitting, built in rebellion against Splitwise's free-tier caps. My flat of five settles rent on it. | <sub><samp>ON THE PLAY STORE · USED DAILY</samp></sub> |
 
@@ -54,8 +54,8 @@
 **⚡ recently pushed**
 
 - [**claude-route**](https://github.com/justutsav/claude-route) — Zero-token model router for Claude Code: deterministic classifier picks the cheapest ca… · `today`
-- [**justWhisper**](https://github.com/justutsav/justWhisper) — no description yet · `9d ago`
-- [**getting-started-with-ubuntu**](https://github.com/justutsav/getting-started-with-ubuntu) — no description yet · `1mo ago`
+- [**justWhisper**](https://github.com/justutsav/justWhisper) — You speak, the ai translates and types it for you. · `9d ago`
+- [**getting-started-with-ubuntu**](https://github.com/justutsav/getting-started-with-ubuntu) — If you installed ubuntu you can use this shell script to install all the necessary files into your OS · `1mo ago`
 
 **📼 latest on [@Blaze_Age](https://youtube.com/@Blaze_Age)**
 
