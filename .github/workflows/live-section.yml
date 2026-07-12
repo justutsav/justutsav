@@ -18,11 +18,15 @@ jobs:
           python-version: "3.12"
       - name: rebuild the LIVE block
         run: python scripts/update_readme.py
+      - name: regenerate the stats card
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/gen_cards.py
       - name: commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md assets/card-stats.svg
           git diff --cached --quiet || git commit -m "chore: refresh live section"
           git pull --rebase origin main
           git push

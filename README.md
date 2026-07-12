@@ -19,17 +19,6 @@
 <a href="mailto:justutsav.05@gmail.com"><img src="https://img.shields.io/badge/EMAIL-191713?style=flat-square&logo=gmail&logoColor=f2ede2"></a>
 <a href="https://play.google.com/store/apps/details?id=com.justmanager.app"><img src="https://img.shields.io/badge/PLAY_STORE-ff5a24?style=flat-square&logo=google-play&logoColor=0e0d0b"></a>
 
-<br><br>
-
-<table>
-  <tr>
-    <td align="center" width="25%"><b>Rs 75L+</b><br><sub><samp>MANAGED BY MY SOFTWARE</samp></sub></td>
-    <td align="center" width="25%"><b>50+</b><br><sub><samp>CLIENTS USING IT DAILY</samp></sub></td>
-    <td align="center" width="25%"><b>23</b><br><sub><samp>PLAY STORE RELEASES</samp></sub></td>
-    <td align="center" width="25%"><b>3</b><br><sub><samp>BUSINESSES ON MY BUILDS</samp></sub></td>
-  </tr>
-</table>
-
 </div>
 
 <br>
@@ -82,27 +71,18 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=justutsav&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&bg_color=00000000&title_color=ff5a24&text_color=a49a88&icon_color=5b8cff&ring_color=ff5a24">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=justutsav&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&bg_color=00000000&title_color=cf3e12&text_color=5d5647&icon_color=2f56c4&ring_color=cf3e12">
-  <img src="https://github-readme-stats.vercel.app/api?username=justutsav&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&bg_color=00000000&title_color=ff5a24&text_color=a49a88&icon_color=5b8cff&ring_color=ff5a24" width="49%" alt="stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=justutsav&hide_border=true&background=00000000&ring=ff5a24&fire=ff5a24&currStreakNum=f2ede2&sideNums=f2ede2&currStreakLabel=ff5a24&sideLabels=a49a88&dates=5d5647">
-  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=justutsav&hide_border=true&background=00000000&ring=cf3e12&fire=cf3e12&currStreakNum=14120f&sideNums=14120f&currStreakLabel=cf3e12&sideLabels=5d5647&dates=5d5647">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=justutsav&hide_border=true&background=00000000&ring=ff5a24&fire=ff5a24&currStreakNum=f2ede2&sideNums=f2ede2&currStreakLabel=ff5a24&sideLabels=a49a88&dates=5d5647" width="49%" alt="streak">
-</picture>
+<!-- self-hosted stat card (assets/card-stats.svg), regenerated daily by the
+     cron from live GitHub data — no third-party service to rate-limit or 404 -->
+<img src="assets/card-stats.svg" width="70%" alt="GitHub stats — contributions, stars, repos, streak">
 
+<br><br>
+
+<!-- 3d contribution skyline (Actions-generated) also carries the language
+     breakdown and commit/PR/issue radar, so no separate cards needed -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contribution skyline">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justutsav&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ff5a24&text_color=a49a88">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=justutsav&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=cf3e12&text_color=5d5647">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justutsav&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ff5a24&text_color=a49a88" width="42%" alt="languages">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3d contribution skyline with language and activity breakdown">
 </picture>
 
 </div>
