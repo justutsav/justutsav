@@ -53,11 +53,11 @@
 <!--LIVE:START-->
 **⚡ recently pushed**
 
-- [**splitfree-privacy**](https://github.com/justutsav/splitfree-privacy) — Privacy policy for the SplitFree Android app · `yesterday`
-- [**Avinya_hackathon**](https://github.com/justutsav/Avinya_hackathon) — no description yet · `9d ago`
-- [**claude-route**](https://github.com/justutsav/claude-route) — Zero-token model router for Claude Code: deterministic classifier picks the cheapest ca… · `17d ago`
+- [**splitfree-privacy**](https://github.com/justutsav/splitfree-privacy) — Privacy policy for the SplitFree Android app · `today`
+- [**Avinya_hackathon**](https://github.com/justutsav/Avinya_hackathon) — no description yet · `10d ago`
+- [**claude-route**](https://github.com/justutsav/claude-route) — Zero-token model router for Claude Code: deterministic classifier picks the cheapest ca… · `18d ago`
 
-<sub>refreshed 30 Jul 2026, 10:53 IST · by a GitHub Actions cron, no hands involved</sub>
+<sub>refreshed 31 Jul 2026, 11:19 IST · by a GitHub Actions cron, no hands involved</sub>
 <!--LIVE:END-->
 
 <br>
