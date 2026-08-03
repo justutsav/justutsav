@@ -53,16 +53,11 @@
 <!--LIVE:START-->
 **⚡ recently pushed**
 
-- [**splitfree-privacy**](https://github.com/justutsav/splitfree-privacy) — Privacy policy for the SplitFree Android app · `2d ago`
-- [**Avinya_hackathon**](https://github.com/justutsav/Avinya_hackathon) — no description yet · `12d ago`
-- [**claude-route**](https://github.com/justutsav/claude-route) — Zero-token model router for Claude Code: deterministic classifier picks the cheapest ca… · `20d ago`
+- [**splitfree-privacy**](https://github.com/justutsav/splitfree-privacy) — Privacy policy for the SplitFree Android app · `3d ago`
+- [**Avinya_hackathon**](https://github.com/justutsav/Avinya_hackathon) — no description yet · `13d ago`
+- [**claude-route**](https://github.com/justutsav/claude-route) — Zero-token model router for Claude Code: deterministic classifier picks the cheapest ca… · `21d ago`
 
-**📼 latest on [@Blaze_Age](https://youtube.com/@Blaze_Age)**
-
-- [Did Housing route in a Stables cause I am dumb XD](https://www.youtube.com/watch?v=YFCkKWRqB4Q) · `Jun 2026`
-- [Ghost of Tsushima-Part 1 || Blaze Age](https://www.youtube.com/watch?v=ROatxfHLVAs) · `Jan 2025`
-
-<sub>refreshed 02 Aug 2026, 11:10 IST · by a GitHub Actions cron, no hands involved</sub>
+<sub>refreshed 03 Aug 2026, 11:26 IST · by a GitHub Actions cron, no hands involved</sub>
 <!--LIVE:END-->
 
 <br>
