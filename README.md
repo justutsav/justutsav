@@ -53,16 +53,16 @@
 <!--LIVE:START-->
 **⚡ recently pushed**
 
-- [**rubix-cube-097**](https://github.com/justutsav/rubix-cube-097) — no description yet · `16d ago`
+- [**Personal_Website**](https://github.com/justutsav/Personal_Website) — no description yet · `today`
+- [**rubix-cube-097**](https://github.com/justutsav/rubix-cube-097) — no description yet · `17d ago`
 - [**wpm-overlay**](https://github.com/justutsav/wpm-overlay) — Real-time WPM overlay using Python (Tkinter + pynput) with live graph and color-based s… · `1mo ago`
-- [**splitfree-privacy**](https://github.com/justutsav/splitfree-privacy) — Privacy policy for the SplitFree Android app · `1mo ago`
 
 **📼 latest on [@Blaze_Age](https://youtube.com/@Blaze_Age)**
 
 - [Did Housing route in a Stables cause I am dumb XD](https://www.youtube.com/watch?v=YFCkKWRqB4Q) · `Jun 2026`
 - [Ghost of Tsushima-Part 1 || Blaze Age](https://www.youtube.com/watch?v=ROatxfHLVAs) · `Jan 2025`
 
-<sub>refreshed 17 Oct 2026, 12:36 IST · by a GitHub Actions cron, no hands involved</sub>
+<sub>refreshed 18 Oct 2026, 12:50 IST · by a GitHub Actions cron, no hands involved</sub>
 <!--LIVE:END-->
 
 <br>
