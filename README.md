@@ -53,8 +53,8 @@
 <!--LIVE:START-->
 **⚡ recently pushed**
 
-- [**Personal_Website**](https://github.com/justutsav/Personal_Website) — no description yet · `2d ago`
-- [**rubix-cube-097**](https://github.com/justutsav/rubix-cube-097) — no description yet · `20d ago`
+- [**Personal_Website**](https://github.com/justutsav/Personal_Website) — no description yet · `3d ago`
+- [**rubix-cube-097**](https://github.com/justutsav/rubix-cube-097) — no description yet · `21d ago`
 - [**wpm-overlay**](https://github.com/justutsav/wpm-overlay) — Real-time WPM overlay using Python (Tkinter + pynput) with live graph and color-based s… · `1mo ago`
 
 **📼 latest on [@Blaze_Age](https://youtube.com/@Blaze_Age)**
@@ -62,7 +62,7 @@
 - [Did Housing route in a Stables cause I am dumb XD](https://www.youtube.com/watch?v=YFCkKWRqB4Q) · `Jun 2026`
 - [Ghost of Tsushima-Part 1 || Blaze Age](https://www.youtube.com/watch?v=ROatxfHLVAs) · `Jan 2025`
 
-<sub>refreshed 20 Oct 2026, 13:19 IST · by a GitHub Actions cron, no hands involved</sub>
+<sub>refreshed 21 Oct 2026, 13:23 IST · by a GitHub Actions cron, no hands involved</sub>
 <!--LIVE:END-->
 
 <br>
