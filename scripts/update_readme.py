@@ -70,14 +70,14 @@ def latest_videos(n: int = 2) -> list[str]:
 
 
 def main() -> None:
-    parts = ["**⚡ recently pushed**", ""]
+    parts = ["**recently pushed**", ""]
     parts += latest_repos()
     try:
         vids = latest_videos()
     except Exception:
         vids = []  # feed hiccup — keep the repos, skip the videos
     if vids:
-        parts += ["", "**📼 latest on [@Blaze_Age](https://youtube.com/@Blaze_Age)**", ""]
+        parts += ["", "**latest on [@Blaze_Age](https://youtube.com/@Blaze_Age)**", ""]
         parts += vids
     ist = datetime.now(timezone(timedelta(hours=5, minutes=30)))
     parts += ["", f"<sub>refreshed {ist.strftime('%d %b %Y, %H:%M')} IST · by a GitHub Actions cron, no hands involved</sub>"]
