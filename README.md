@@ -17,7 +17,6 @@ Most of what's on this page started as a problem in my own flat or on my own lap
 - **3 businesses** run on my builds
 - **Smart India Hackathon** internal winner, team lead
 - currently on **SIH 2026 · PS 26097**, a voice assistant that maps livelihoods for SC communities to NSQF skilling
-- learning web fundamentals properly, grinding LeetCode, getting friendly with pandas
 
 ## `> shipped`
 
