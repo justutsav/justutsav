@@ -14,7 +14,7 @@
     <circle r="47" fill="none" stroke="#ff5a24" stroke-width="3" stroke-dasharray="7 5" opacity="0.9">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/>
     </circle>
-    <text y="-8" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="34" fill="#f2ede2">7</text>
+    <text y="-8" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="34" fill="#f2ede2">0</text>
     <text y="14" text-anchor="middle" font-family="Courier New,monospace" font-size="10" letter-spacing="1.5" fill="#ff5a24">DAY STREAK</text>
     <text y="32" text-anchor="middle" font-family="Courier New,monospace" font-size="9" fill="#a49a88">best 13</text>
   </g>
