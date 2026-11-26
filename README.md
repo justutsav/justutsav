@@ -13743,72 +13743,142 @@ endloop
 endfacet
 facet normal 0 0 1
 outer loop
-vertex 52.1 3.1 1.7
-vertex 52.9 3.1 1.7
-vertex 52.9 3.9 1.7
+vertex 52.1 3.1 2.4
+vertex 52.9 3.1 2.4
+vertex 52.9 3.9 2.4
 endloop
 endfacet
 facet normal 0 0 1
 outer loop
-vertex 52.1 3.1 1.7
-vertex 52.9 3.9 1.7
-vertex 52.1 3.9 1.7
+vertex 52.1 3.1 2.4
+vertex 52.9 3.9 2.4
+vertex 52.1 3.9 2.4
 endloop
 endfacet
 facet normal 0 -1 0
 outer loop
 vertex 52.1 3.1 0
 vertex 52.9 3.1 0
-vertex 52.9 3.1 1.7
+vertex 52.9 3.1 2.4
 endloop
 endfacet
 facet normal 0 -1 0
 outer loop
 vertex 52.1 3.1 0
-vertex 52.9 3.1 1.7
-vertex 52.1 3.1 1.7
+vertex 52.9 3.1 2.4
+vertex 52.1 3.1 2.4
 endloop
 endfacet
 facet normal 0 1 0
 outer loop
 vertex 52.9 3.9 0
 vertex 52.1 3.9 0
-vertex 52.1 3.9 1.7
+vertex 52.1 3.9 2.4
 endloop
 endfacet
 facet normal 0 1 0
 outer loop
 vertex 52.9 3.9 0
-vertex 52.1 3.9 1.7
-vertex 52.9 3.9 1.7
+vertex 52.1 3.9 2.4
+vertex 52.9 3.9 2.4
 endloop
 endfacet
 facet normal -1 0 0
 outer loop
 vertex 52.1 3.9 0
 vertex 52.1 3.1 0
-vertex 52.1 3.1 1.7
+vertex 52.1 3.1 2.4
 endloop
 endfacet
 facet normal -1 0 0
 outer loop
 vertex 52.1 3.9 0
-vertex 52.1 3.1 1.7
-vertex 52.1 3.9 1.7
+vertex 52.1 3.1 2.4
+vertex 52.1 3.9 2.4
 endloop
 endfacet
 facet normal 1 0 0
 outer loop
 vertex 52.9 3.1 0
 vertex 52.9 3.9 0
-vertex 52.9 3.9 1.7
+vertex 52.9 3.9 2.4
 endloop
 endfacet
 facet normal 1 0 0
 outer loop
 vertex 52.9 3.1 0
-vertex 52.9 3.9 1.7
-vertex 52.9 3.1 1.7
+vertex 52.9 3.9 2.4
+vertex 52.9 3.1 2.4
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 52.1 2.1 2.7
+vertex 52.9 2.1 2.7
+vertex 52.9 2.9 2.7
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 52.1 2.1 2.7
+vertex 52.9 2.9 2.7
+vertex 52.1 2.9 2.7
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 52.1 2.1 0
+vertex 52.9 2.1 0
+vertex 52.9 2.1 2.7
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 52.1 2.1 0
+vertex 52.9 2.1 2.7
+vertex 52.1 2.1 2.7
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 52.9 2.9 0
+vertex 52.1 2.9 0
+vertex 52.1 2.9 2.7
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 52.9 2.9 0
+vertex 52.1 2.9 2.7
+vertex 52.9 2.9 2.7
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 52.1 2.9 0
+vertex 52.1 2.1 0
+vertex 52.1 2.1 2.7
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 52.1 2.9 0
+vertex 52.1 2.1 2.7
+vertex 52.1 2.9 2.7
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 52.9 2.1 0
+vertex 52.9 2.9 0
+vertex 52.9 2.9 2.7
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 52.9 2.1 0
+vertex 52.9 2.9 2.7
+vertex 52.9 2.1 2.7
 endloop
 endfacet
 facet normal 0 0 1
@@ -13904,16 +13974,16 @@ endsolid skyline
 <!--LIVE:START-->
 **recently pushed**
 
-- [**Personal_Website**](https://github.com/justutsav/Personal_Website) — no description yet · `2d ago`
-- [**splitfree-privacy**](https://github.com/justutsav/splitfree-privacy) — Privacy policy for the SplitFree Android app · `27d ago`
-- [**rubix-cube-097**](https://github.com/justutsav/rubix-cube-097) — no description yet · `1mo ago`
+- [**Zentry-clone-Website**](https://github.com/justutsav/Zentry-clone-Website) — no description yet · `today`
+- [**Personal_Website**](https://github.com/justutsav/Personal_Website) — no description yet · `3d ago`
+- [**splitfree-privacy**](https://github.com/justutsav/splitfree-privacy) — Privacy policy for the SplitFree Android app · `28d ago`
 
 **latest on [@Blaze_Age](https://youtube.com/@Blaze_Age)**
 
 - [Did Housing route in a Stables cause I am dumb XD](https://www.youtube.com/watch?v=YFCkKWRqB4Q) · `Jun 2026`
 - [Ghost of Tsushima-Part 1 || Blaze Age](https://www.youtube.com/watch?v=ROatxfHLVAs) · `Jan 2025`
 
-<sub>refreshed 25 Nov 2026, 17:03 IST · by a GitHub Actions cron, no hands involved</sub>
+<sub>refreshed 26 Nov 2026, 16:46 IST · by a GitHub Actions cron, no hands involved</sub>
 <!--LIVE:END-->
 
 ## `> numbers`
